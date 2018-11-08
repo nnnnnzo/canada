@@ -6,6 +6,10 @@
     font-family: 'sansp';
     src: url('fonts/GoogleSans-Bold.ttf'); 
 }
+h1
+{
+    font-family: 'YourFontName';
+}
 ul
 {
   list-style-type: none;
