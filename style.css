@@ -1,5 +1,6 @@
-#menu-acordeon {
-   list-style-type: none;
+ul
+{
+  list-style-type: none;
 }
 #menu-accordeon {
   padding:0;
