@@ -1,11 +1,3 @@
-@font-face {
-    font-family: 'sansn';
-    src: url('fonts/GoogleSans-Regular.ttf'); 
-}
-@font-face {
-    font-family: 'sansp';
-    src: url('fonts/GoogleSans-Bold.ttf'); 
-}
 ul
 {
   list-style-type: none;
